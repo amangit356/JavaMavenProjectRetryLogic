@@ -1,0 +1,5 @@
+package org.qa.opencart.pages;
+
+public class LoginPage {
+
+}
